@@ -26,13 +26,14 @@
             if (is_array($abstract)) {
                 $abstract = $abstract[0];
             }           
-                        
-            if (!empty($value["MedlineCitation"]["Article"]["ELocationID"])) {
-                $doi = "https://doi.org/" . $value["MedlineCitation"]["Article"]["ELocationID"][0];
+                     
+			$valueDoi = @$value["MedlineCitation"]["Article"]["ELocationID"];
+            if (!empty($valueDoi) && is_array($valueDoi)) {
+                $doi = "https://doi.org/" . $valueDoi[0];
             } else {
-                $doi = (!empty($value["MedlineCitation"]["Article"]["ELocationID"])) ? "https://doi.org/" . $value["MedlineCitation"]["Article"]["ELocationID"] : "";
+                $doi = (!empty($valueDoi)) ? "https://doi.org/" . $valueDoi : "";
             }
-            
+		        
             $link = "https://www.ncbi.nlm.nih.gov/pubmed/" . $value["MedlineCitation"]["PMID"];
             
             $autores = $value["MedlineCitation"]["Article"]["AuthorList"]["Author"];
