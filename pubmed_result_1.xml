@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15370989</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1463-9238</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>29</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical informatics and the Internet in medicine</Title>
+                <ISOAbbreviation>Med Inform Internet Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Older adults' attitudes towards and perceptions of &quot;smart home&quot; technologies: a pilot study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>87-94</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PRIMARY OBJECTIVE" NlmCategory="OBJECTIVE">The study aim is to explore the perceptions and expectations of seniors in regard to &quot;smart home&quot; technology installed and operated in their homes with the purpose of improving their quality of life and/or monitoring their health status.</AbstractText>
+                <AbstractText Label="RESEARCH DESIGN AND METHODS" NlmCategory="METHODS">Three focus group sessions were conducted within this pilot study to assess older adults' perceptions of the technology and ways they believe technology can improve their daily lives. Themes discussed in these groups included participants' perceptions of the usefulness of devices and sensors in health-related issues such as preventing or detecting falls, assisting with visual or hearing impairments, improving mobility, reducing isolation, managing medications, and monitoring of physiological parameters. The audiotapes were transcribed and a content analysis was performed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 15 older adults participated in three focus group sessions. Areas where advanced technologies would benefit older adult residents included emergency help, prevention and detection of falls, monitoring of physiological parameters, etc. Concerns were expressed about the user-friendliness of the devices, lack of human response and the need for training tailored to older learners.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">All participants had an overall positive attitude towards devices and sensors that can be installed in their homes in order to enhance their lives.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Demiris</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Management and Informatics, School of Medicine, University of Missouri-Columbia, Columbia, MO 65211, USA. DemirisG@health.missouri.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rantz</LastName>
+                    <ForeName>Marilyn</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aud</LastName>
+                    <ForeName>Myra</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marek</LastName>
+                    <ForeName>Karen</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tyrer</LastName>
+                    <ForeName>Harry</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skubic</LastName>
+                    <ForeName>Marjorie</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hussam</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Med Inform Internet Med</MedlineTA>
+            <NlmUniqueID>100883495</NlmUniqueID>
+            <ISSNLinking>1463-9238</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000058" MajorTopicYN="N">Accidental Falls</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000203" MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+                <QualifierName UI="Q000523" MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001292" MajorTopicYN="Y">Attitude to Computers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001294" MajorTopicYN="Y">Attitude to Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004632" MajorTopicYN="N">Emergency Medical Services</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017144" MajorTopicYN="N">Focus Groups</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015577" MajorTopicYN="N">Geriatric Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006299" MajorTopicYN="N">Health Services for the Aged</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006304" MajorTopicYN="N">Health Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016852" MajorTopicYN="N">Housing for the Elderly</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008923" MajorTopicYN="N" Type="Geographic">Missouri</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008991" MajorTopicYN="N">Monitoring, Physiologic</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017010" MajorTopicYN="N">Reminder Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017751" MajorTopicYN="N">Safety Management</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013673" MajorTopicYN="N">Technology Assessment, Biomedical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017216" MajorTopicYN="N">Telemedicine</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014584" MajorTopicYN="N">User-Computer Interface</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15370989</ArticleId>
+            <ArticleId IdType="doi">10.1080/14639230410001684387</ArticleId>
+            <ArticleId IdType="pii">W8091GLKV15UPPHK</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+
+</PubmedArticleSet>
